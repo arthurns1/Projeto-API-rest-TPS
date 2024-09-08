@@ -1,0 +1,16 @@
+{
+  "name": "API-rest-ts",
+  "version": "1",
+  "description": "Projeto feito para treinar typescript e os conceitos de API rest",
+  "main": "index.js",
+  "author": "José Arthur Nascimento Santos",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.21",
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^5.5.4"
+  }
+}
